@@ -1,0 +1,53 @@
+body{
+    background-color: antiquewhite;
+}
+
+h1{
+    text-align: center;
+}
+
+div {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  article {
+    text-align: center;
+    height: 30%;
+    width: 30%;
+    border: 3px solid rgb(38, 219, 195);
+    border-radius: 10px;
+    background-color: rgb(185, 230, 215);
+  }
+
+  img{
+    height: 400px;
+    width: 400px;
+    border-radius: 10px;
+  }
+
+  h3{
+    font-size: 18px;
+  }
+
+  footer {
+    background-color: #f2f2f2;
+    margin-top: 5px;
+    height: 50px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+
+.contacto{
+
+    padding-right: 20px;
+}
+
+.links{
+    display: flex
+}
+
+.mas-info{margin-right: 20px;}
