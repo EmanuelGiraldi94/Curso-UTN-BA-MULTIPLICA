@@ -36,3 +36,25 @@ input[type="submit"] {
 
 }
 
+footer {
+  background-color: #f2f2f2;
+  margin-top: 55px;
+  height: 50px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+
+.contacto{
+
+  padding-right: 20px;
+}
+
+.links{
+  display: flex
+}
+
+.mas-info{margin-right: 20px;}
+
